@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "name": "CihanKylice",
+        "library_id": "user18",
+        "password": "1789",
+        "fines_owed": 0.0,
+        "history": [],
+        "active_loans": 0,
+        "borrowing_limit": 5
+    }
+]
