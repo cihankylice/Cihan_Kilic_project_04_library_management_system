@@ -1,182 +1,137 @@
 [
     {
+        "isbn": "978-9750739897",
+        "title": "Dorian Gray'in Portresi",
+        "authors": "Oscar Wilde",
+        "year": 1890,
+        "genre": "Gotik Roman",
+        "copies_owned": 5,
+        "copies_available": 5
+    },
+    {
         "isbn": "978-9751026410",
         "title": "Nutuk",
-        "author": "Mustafa Kemal Atat\u00fcrk",
-        "year": "1927",
+        "authors": "Mustafa Kemal Atat\u00fcrk",
+        "year": 1927,
         "genre": "Tarih",
-        "copies": 20,
-        "available": 20
-    },
-    {
-        "isbn": "978-9750807022",
-        "title": "\u0130nce Memed 1",
-        "author": "Ya\u015far Kemal",
-        "year": "1955",
-        "genre": "Roman",
-        "copies": 5,
-        "available": 5
-    },
-    {
-        "isbn": "978-9753638018",
-        "title": "Tutunamayanlar",
-        "author": "O\u011fuz Atay",
-        "year": "1972",
-        "genre": "Roman",
-        "copies": 3,
-        "available": 3
+        "copies_owned": 20,
+        "copies_available": 20
     },
     {
         "isbn": "978-9750719387",
         "title": "K\u00fcrk Mantolu Madonna",
-        "author": "Sabahattin Ali",
-        "year": "1943",
+        "authors": "Sabahattin Ali",
+        "year": 1943,
         "genre": "Roman",
-        "copies": 10,
-        "available": 10
+        "copies_owned": 10,
+        "copies_available": 10
     },
     {
-        "isbn": "978-9750841968",
-        "title": "Saatleri Ayarlama Enstit\u00fcs\u00fc",
-        "author": "Ahmet Hamdi Tanp\u0131nar",
-        "year": "1961",
+        "isbn": "978-9753638018",
+        "title": "Tutunamayanlar",
+        "authors": "O\u011fuz Atay",
+        "year": 1972,
         "genre": "Roman",
-        "copies": 4,
-        "available": 4
+        "copies_owned": 4,
+        "copies_available": 4
     },
     {
         "isbn": "978-9750516764",
         "title": "1984",
-        "author": "George Orwell",
-        "year": "1949",
+        "authors": "George Orwell",
+        "year": 1949,
         "genre": "Bilim Kurgu",
-        "copies": 8,
-        "available": 8
-    },
-    {
-        "isbn": "978-9750726439",
-        "title": "\u015eeker Portakal\u0131",
-        "author": "Jose Mauro de Vasconcelos",
-        "year": "1968",
-        "genre": "Dram",
-        "copies": 6,
-        "available": 6
+        "copies_owned": 15,
+        "copies_available": 15
     },
     {
         "isbn": "978-6053326163",
         "title": "Su\u00e7 ve Ceza",
-        "author": "Fyodor Dostoyevski",
-        "year": "1866",
+        "authors": "Fyodor Dostoyevski",
+        "year": 1866,
         "genre": "Klasik",
-        "copies": 5,
-        "available": 5
+        "copies_owned": 8,
+        "copies_available": 8
     },
     {
         "isbn": "978-9750802942",
         "title": "Simyac\u0131",
-        "author": "Paulo Coelho",
-        "year": "1988",
+        "authors": "Paulo Coelho",
+        "year": 1988,
         "genre": "Felsefe",
-        "copies": 7,
-        "available": 7
-    },
-    {
-        "isbn": "978-6053606043",
-        "title": "Sefiller",
-        "author": "Victor Hugo",
-        "year": "1862",
-        "genre": "Klasik",
-        "copies": 4,
-        "available": 4
+        "copies_owned": 12,
+        "copies_available": 12
     },
     {
         "isbn": "978-9754589272",
         "title": "Harry Potter ve Felsefe Ta\u015f\u0131",
-        "author": "J.K. Rowling",
-        "year": "1997",
+        "authors": "J.K. Rowling",
+        "year": 1997,
         "genre": "Fantastik",
-        "copies": 12,
-        "available": 12
+        "copies_owned": 7,
+        "copies_available": 7
     },
     {
-        "isbn": "978-9753424161",
-        "title": "Y\u00fcz\u00fcklerin Efendisi: Y\u00fcz\u00fck Karde\u015fli\u011fi",
-        "author": "J.R.R. Tolkien",
-        "year": "1954",
-        "genre": "Fantastik",
-        "copies": 6,
-        "available": 6
+        "isbn": "978-6053606043",
+        "title": "Sefiller",
+        "authors": "Victor Hugo",
+        "year": 1862,
+        "genre": "Klasik",
+        "copies_owned": 6,
+        "copies_available": 6
     },
     {
-        "isbn": "978-6054729079",
-        "title": "Sapiens: Hayvanlardan Tanr\u0131lara",
-        "author": "Yuval Noah Harari",
-        "year": "2011",
-        "genre": "Bilim",
-        "copies": 9,
-        "available": 9
-    },
-    {
-        "isbn": "978-9753635901",
-        "title": "Aylak Adam",
-        "author": "Yusuf At\u0131lgan",
-        "year": "1959",
-        "genre": "Roman",
-        "copies": 3,
-        "available": 3
+        "isbn": "978-9750726439",
+        "title": "\u015eeker Portakal\u0131",
+        "authors": "Jose Mauro de Vasconcelos",
+        "year": 1968,
+        "genre": "Dram",
+        "copies_owned": 9,
+        "copies_available": 9
     },
     {
         "isbn": "978-6051717659",
         "title": "Satran\u00e7",
-        "author": "Stefan Zweig",
-        "year": "1942",
+        "authors": "Stefan Zweig",
+        "year": 1942,
         "genre": "\u00d6yk\u00fc",
-        "copies": 8,
-        "available": 8
+        "copies_owned": 11,
+        "copies_available": 11
     },
     {
         "isbn": "978-6055532500",
         "title": "Olas\u0131l\u0131ks\u0131z",
-        "author": "Adam Fawer",
-        "year": "2005",
+        "authors": "Adam Fawer",
+        "year": 2005,
         "genre": "Macera",
-        "copies": 5,
-        "available": 5
+        "copies_owned": 5,
+        "copies_available": 5
+    },
+    {
+        "isbn": "978-9750841968",
+        "title": "Saatleri Ayarlama Enstit\u00fcs\u00fc",
+        "authors": "Ahmet Hamdi Tanp\u0131nar",
+        "year": 1961,
+        "genre": "Roman",
+        "copies_owned": 3,
+        "copies_available": 3
+    },
+    {
+        "isbn": "978-1449355739",
+        "title": "Learning Python",
+        "authors": "Mark Lutz",
+        "year": 2013,
+        "genre": "E\u011fitim",
+        "copies_owned": 4,
+        "copies_available": 4
     },
     {
         "isbn": "978-6053757813",
         "title": "Dune",
-        "author": "Frank Herbert",
-        "year": "1965",
+        "authors": "Frank Herbert",
+        "year": 1965,
         "genre": "Bilim Kurgu",
-        "copies": 4,
-        "available": 4
-    },
-    {
-        "isbn": "978-9751416495",
-        "title": "Otomatik Portakal",
-        "author": "Anthony Burgess",
-        "year": "1962",
-        "genre": "Distopya",
-        "copies": 6,
-        "available": 6
-    },
-    {
-        "isbn": "978-9753638025",
-        "title": "Korkuyu Beklerken",
-        "author": "O\u011fuz Atay",
-        "year": "1975",
-        "genre": "\u00d6yk\u00fc",
-        "copies": 3,
-        "available": 3
-    },
-    {
-        "isbn": "978-1491957660",
-        "title": "Python Crash Course",
-        "author": "Eric Matthes",
-        "year": "2019",
-        "genre": "E\u011fitim",
-        "copies": 15,
-        "available": 15
+        "copies_owned": 6,
+        "copies_available": 6
     }
 ]
