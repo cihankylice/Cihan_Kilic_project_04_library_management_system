@@ -4,8 +4,11 @@
         "library_id": "user18",
         "password": "1789",
         "fines_owed": 0.0,
-        "history": [],
-        "active_loans": 0,
+        "history": [
+            "user18-978-9750739897-20260107140917",
+            "user18-978-9751026410-20260107141020"
+        ],
+        "active_loans": 1,
         "borrowing_limit": 5
     }
 ]
