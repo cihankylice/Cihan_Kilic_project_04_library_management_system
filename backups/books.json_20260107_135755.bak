@@ -1,0 +1,182 @@
+[
+    {
+        "isbn": "978-9751026410",
+        "title": "Nutuk",
+        "author": "Mustafa Kemal Atatürk",
+        "year": "1927",
+        "genre": "Tarih",
+        "copies": 20,
+        "available": 20
+    },
+    {
+        "isbn": "978-9750807022",
+        "title": "İnce Memed 1",
+        "author": "Yaşar Kemal",
+        "year": "1955",
+        "genre": "Roman",
+        "copies": 5,
+        "available": 5
+    },
+    {
+        "isbn": "978-9753638018",
+        "title": "Tutunamayanlar",
+        "author": "Oğuz Atay",
+        "year": "1972",
+        "genre": "Roman",
+        "copies": 3,
+        "available": 3
+    },
+    {
+        "isbn": "978-9750719387",
+        "title": "Kürk Mantolu Madonna",
+        "author": "Sabahattin Ali",
+        "year": "1943",
+        "genre": "Roman",
+        "copies": 10,
+        "available": 10
+    },
+    {
+        "isbn": "978-9750841968",
+        "title": "Saatleri Ayarlama Enstitüsü",
+        "author": "Ahmet Hamdi Tanpınar",
+        "year": "1961",
+        "genre": "Roman",
+        "copies": 4,
+        "available": 4
+    },
+    {
+        "isbn": "978-9750516764",
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949",
+        "genre": "Bilim Kurgu",
+        "copies": 8,
+        "available": 8
+    },
+    {
+        "isbn": "978-9750726439",
+        "title": "Şeker Portakalı",
+        "author": "Jose Mauro de Vasconcelos",
+        "year": "1968",
+        "genre": "Dram",
+        "copies": 6,
+        "available": 6
+    },
+    {
+        "isbn": "978-6053326163",
+        "title": "Suç ve Ceza",
+        "author": "Fyodor Dostoyevski",
+        "year": "1866",
+        "genre": "Klasik",
+        "copies": 5,
+        "available": 5
+    },
+    {
+        "isbn": "978-9750802942",
+        "title": "Simyacı",
+        "author": "Paulo Coelho",
+        "year": "1988",
+        "genre": "Felsefe",
+        "copies": 7,
+        "available": 7
+    },
+    {
+        "isbn": "978-6053606043",
+        "title": "Sefiller",
+        "author": "Victor Hugo",
+        "year": "1862",
+        "genre": "Klasik",
+        "copies": 4,
+        "available": 4
+    },
+    {
+        "isbn": "978-9754589272",
+        "title": "Harry Potter ve Felsefe Taşı",
+        "author": "J.K. Rowling",
+        "year": "1997",
+        "genre": "Fantastik",
+        "copies": 12,
+        "available": 12
+    },
+    {
+        "isbn": "978-9753424161",
+        "title": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+        "author": "J.R.R. Tolkien",
+        "year": "1954",
+        "genre": "Fantastik",
+        "copies": 6,
+        "available": 6
+    },
+    {
+        "isbn": "978-6054729079",
+        "title": "Sapiens: Hayvanlardan Tanrılara",
+        "author": "Yuval Noah Harari",
+        "year": "2011",
+        "genre": "Bilim",
+        "copies": 9,
+        "available": 9
+    },
+    {
+        "isbn": "978-9753635901",
+        "title": "Aylak Adam",
+        "author": "Yusuf Atılgan",
+        "year": "1959",
+        "genre": "Roman",
+        "copies": 3,
+        "available": 3
+    },
+    {
+        "isbn": "978-6051717659",
+        "title": "Satranç",
+        "author": "Stefan Zweig",
+        "year": "1942",
+        "genre": "Öykü",
+        "copies": 8,
+        "available": 8
+    },
+    {
+        "isbn": "978-6055532500",
+        "title": "Olasılıksız",
+        "author": "Adam Fawer",
+        "year": "2005",
+        "genre": "Macera",
+        "copies": 5,
+        "available": 5
+    },
+    {
+        "isbn": "978-6053757813",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": "1965",
+        "genre": "Bilim Kurgu",
+        "copies": 4,
+        "available": 4
+    },
+    {
+        "isbn": "978-9751416495",
+        "title": "Otomatik Portakal",
+        "author": "Anthony Burgess",
+        "year": "1962",
+        "genre": "Distopya",
+        "copies": 6,
+        "available": 6
+    },
+    {
+        "isbn": "978-9753638025",
+        "title": "Korkuyu Beklerken",
+        "author": "Oğuz Atay",
+        "year": "1975",
+        "genre": "Öykü",
+        "copies": 3,
+        "available": 3
+    },
+    {
+        "isbn": "978-1491957660",
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "year": "2019",
+        "genre": "Eğitim",
+        "copies": 15,
+        "available": 15
+    }
+]
