@@ -56,12 +56,12 @@ Here is a quick guide to test the system:
     * Genre: `Education`
     * Copies: `5`
 * **Register a Patron**: Select option `3`.
-    * Name: `Alice Smith`
-    * Library ID: `user1`
-    * Password: `1234`
+    * Name: `Cihan`
+    * Library ID: `ogr1`
+    * Password: `1789`
 
 **2. Borrowing a Book**
-* Still as Librarian, select **4. Checkout Book**.
+* Still as Librarian, **4. Checkout Book**.
     * Patron ID: `user1`
     * Book ISBN: `978-1`
 * The system will calculate the due date (14 days from today).
