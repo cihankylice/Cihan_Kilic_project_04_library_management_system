@@ -1,1 +1,21 @@
-[]
+[
+    {
+        "loan_id": "user18-978-9750739897-20260107140917",
+        "isbn": "978-9750739897",
+        "library_id": "user18",
+        "loan_date": "2026-01-07",
+        "due_date": "2026-01-21",
+        "returned": true,
+        "book_title": "Dorian Gray'in Portresi",
+        "return_date": "2026-01-07"
+    },
+    {
+        "loan_id": "user18-978-9751026410-20260107141020",
+        "isbn": "978-9751026410",
+        "library_id": "user18",
+        "loan_date": "2026-01-07",
+        "due_date": "2026-01-21",
+        "returned": false,
+        "book_title": "Nutuk"
+    }
+]
